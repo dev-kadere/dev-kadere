@@ -17,16 +17,10 @@ I love building modern, responsive, and user-friendly interfaces using the lates
 ---
 
 ### 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=JavaScript,TypeScript,nodejs,HTML,PHP,&theme=light)](https://skillicons.dev)
 
 **Languages & Databases:**  
-`JavaScript` • `TypeScript` • `HTML` • `PHP` • `MongoDB` • `SQL`
 
-**Frameworks & Libraries:**  
-`Vue` • `Nuxt` • `React` • `Next.js` • `Angular`
-
-**Styling & Tools:**  
-`Tailwind CSS` • `GitHub` • `VS Code` • `Postman`
+[![My Skills](https://skillicons.dev/icons?i=react,vue,next,nuxt,angular,javascript,typescript,nodejs,html,php,mongodb,mysql,tailwind,figma,github,vscode,postma&theme=light)](https://skillicons.dev)
 
 ---
 
