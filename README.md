@@ -17,6 +17,7 @@ I love building modern, responsive, and user-friendly interfaces using the lates
 ---
 
 ### 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=JavaScript,TypeScript,nodejs,HTML,PHP,&theme=light)](https://skillicons.dev)
 
 **Languages & Databases:**  
 `JavaScript` • `TypeScript` • `HTML` • `PHP` • `MongoDB` • `SQL`
