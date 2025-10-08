@@ -1,7 +1,11 @@
 # 👋 Hi, I'm Nicholas Ndereba (aka Kadere)
 
 🚀 **Frontend Developer | Aspiring Full-Stack Developer | Tech Enthusiast**
-
+<p align="left">
+  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/kadere" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 I'm a passionate **frontend developer** with a growing interest in **full-stack development**.  
 I love building modern, responsive, and user-friendly interfaces using the latest web technologies.
 
@@ -34,11 +38,7 @@ I love building modern, responsive, and user-friendly interfaces using the lates
 ---
 
 ### 🌐 Connect With Me
-<p align="left">
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/kadere" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+
 
 ---
 
