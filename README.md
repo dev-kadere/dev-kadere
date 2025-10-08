@@ -25,5 +25,5 @@ I love building modern, responsive, and user-friendly interfaces using the lates
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev-kadere&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-kadere&theme=radical" />
+
 </p>
